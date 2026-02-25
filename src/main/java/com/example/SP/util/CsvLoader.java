@@ -1,4 +1,4 @@
-package com.example.util;
+package com.example.SP.util;
 
 import com.example.SP.model.WeatherData;
 import com.example.SP.repository.WeatherRepository;
